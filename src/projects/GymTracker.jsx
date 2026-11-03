@@ -1,7 +1,7 @@
 import ProjectShell from './ProjectShell.jsx'
 
 // ---- ADD YOUR LINKS AND IMAGES HERE ----
-const LIVE = 'https://portfolio-seyitan.vercel.app/'
+const LIVE = 'https://gym-tracker-q94w.vercel.app/'
 const CODE = 'https://github.com/seyitann'
 const IMAGE = '/images/gymDashboard.jpeg'
 const CUSTOMER_SHOT = 'portfolio/public/images/Userpage.jpeg'
