@@ -15,7 +15,7 @@ export default function SmartIrrigation() {
       shots={[['Customer view', CUSTOMER_SHOT], ['Admin view', ADMIN_SHOT]]}
       description="An IoT system that automates watering. Built as my undergraduate thesis."
       details={[['Type', 'Thesis project'], ['Stack', 'IoT, embedded hardware'], ['Status', 'Completed']]}
-      features={['Undergraduate thesis', 'Written up as a journal article']}
+      features={['Automated watering', 'Soil moisture sensing', 'Water level sensing', 'Mobile app for monitoring and control']}
       live={LIVE}
       code={CODE}
     />

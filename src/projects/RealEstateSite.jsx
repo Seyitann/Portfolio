@@ -14,9 +14,13 @@ export default function RealEstateSite() {
       label="Real estate site"
       image={IMAGE}
        shots={[['Customer view', CUSTOMER_SHOT], ['Admin view', ADMIN_SHOT]]}
-      description="A website for a real estate company, currently being scoped."
-      details={[['Type', 'Client project'], ['Stack', 'Web'], ['Status', 'Built']]}
-      features={['Company website', 'Feature scoping stage']}
+      description="Realty is a real estate listings platform built for Nigerian agencies. Buyers can browse and enquire about properties, agents manage their own listings and leads, and one admin controls who gets agent access."
+      details={[
+        ['Type', 'Client project'],
+        ['Stack', 'Next.js (App Router) with TypeScript, Tailwind, Prisma with PostgreSQL on Supabase (database, auth and photo storage), Zod, and Sharp; deployed on Vercel from GitHub.'],
+        ['Status', 'Built'],
+      ]}
+      features={['Security', 'SEO', 'Responsive design', 'Listings management', 'Lead management','Email integration', 'Image upload and optimization', 'Admin dashboard', 'Agent dashboard', 'Customer dashboard']}
       live={LIVE}
       code={CODE}
     />

@@ -14,9 +14,9 @@ export default function TansKitchen() {
       label="Tan's Kitchen screenshot"
       image={IMAGE}
       shots={[['Customer view', CUSTOMER_SHOT], ['Admin view', ADMIN_SHOT]]}
-      description={'A Nigerian-food ordering site with an admin site for the owner. Built as a client project.'}
+      description={'Tan’s Kitchen is an online ordering website for one Nigerian restaurant, built with Next.js and hosted on Vercel, with Supabase as the database. Customers browse the menu, order and pay online, and follow their order until it arrives.'}
       details={[['Type', 'Client project'], ['Stack', 'React, Tailwind, TypeScript, Supabase'], ['Status', 'Built']]}
-      features={['Menu and today\u2019s special', 'Cart and My Orders', 'User login', 'Admin site']}
+      features={['Menu and today\u2019s special', 'Cart and My Orders', 'User login', 'Admin site', 'Order management', 'Payment integration']}
       live={LIVE}
       code={CODE}
     />
