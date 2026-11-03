@@ -16,7 +16,7 @@ export default function GymTracker() {
       description="A mobile-first fitness app that suggests your workout each day, times it, and charts your progress.
 
 Pick your goal and training days once, and the app plans your week. Start a workout, and it logs itself when the timer ends."
-      details={[['Type', 'Personal project'], ['Stack', 'Full-stack web','React', 'TypeScript', 'Tailwind CSS', 'Supabase'], ['Status', 'Completed']]}
+      details={[['Type', 'Personal project'], ['Stack', 'Full-stack Application','React', 'TypeScript', 'Tailwind CSS', 'Supabase'], ['Status', 'Completed']]}
       features={['Smart daily plan', 'Exercise library', 'Auto-logging workout timer', 'Progress tracking','Secure accounts']}
       live={LIVE}
       code={CODE}
