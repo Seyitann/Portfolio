@@ -86,7 +86,7 @@ export default function App() {
             </button>
             <a className="ghost" href="#work">View work <span aria-hidden="true">&rarr;</span></a>
             {/* Put your PDF at public/cv.pdf; the app serves it at /cv.pdf. */}
-            <a className="ghost" href="/images/Olaleye_Tolulope_Joseph_CV (4).pdf" download>Download CV <span aria-hidden="true">&darr;</span></a>
+            <a className="ghost" href="/images/Olaleye_Tolulope_Joseph CV.pdf" download>Download CV <span aria-hidden="true">&darr;</span></a>
           </div>
           <div id="contact-panel" className={'panel' + (open ? ' open' : '')}><div>
             <ul className="contact">
